@@ -1,2 +1,3 @@
 # MiscellaneousCode
-Collection of small scripts
+
+Collection of miscellaneous minor scripts.
