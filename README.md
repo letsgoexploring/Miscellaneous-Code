@@ -1,4 +1,4 @@
-# Miscellaneous-Code
+# miscellaneous-python-code
 
 Collection of miscellaneous Python scripts.
 
