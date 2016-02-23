@@ -4,7 +4,7 @@ from os import listdir
 
 # Locations of the PDF expert directory and the full PDF repository
 pdfExpertPath = "/Users/bcjenkin/Dropbox/PDF Expert/"
-citationPath = "/Users/bcjenkin/Dropbox/Work/Research/Citations/"
+citationPath = "/Users/bcjenkin/Google Drive/Work/Research/Citations/"
 
 # Files in each directory
 pdfFiles = [ f for f in listdir(pdfExpertPath) if isfile(join(pdfExpertPath,f)) ]
